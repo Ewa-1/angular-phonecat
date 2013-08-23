@@ -46,6 +46,9 @@ ul.phone-thumbs li {
   background-color: white;
 }
 
+
+
+
 ul.phone-thumbs img {
   height: 100px;
   width: 100px;
@@ -55,7 +58,6 @@ ul.phone-thumbs img {
 ul.phone-thumbs img:hover {
   cursor: pointer;
 }
-
 
 ul.specs {
   clear: both;
@@ -82,3 +84,4 @@ ul.specs dt {
 h1 {
   border-bottom: 1px solid gray;
 }
+<p> Two Phones</p>
